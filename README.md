@@ -5,6 +5,8 @@ This game is a derivative of another game called
 
 I created this using the [Unity game engine](https://unity.com/) for a school project.
 
+I currently do not intend to continue development, since I already made a better one [here](https://github.com/Brandon-Gui123/counter-the-missiles). So this shall stay archived.
+
 ## Credits
 
 ### Music
